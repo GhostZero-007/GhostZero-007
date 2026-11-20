@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Euddys+De+Leon;Ingeniero+en+Sistemas+y+Computaci%C3%B3n;Analista+de+Ciberseguridad;Co-founder+%26+CTO+%40+NEXATIXS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Euddys+De+Leon;Ingeniero+en+Sistemas+y+Computaci%C3%B3n;Analista+de+Ciberseguridad;Co-founder+%26+CTO+%40+SIRYNIX" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/euddys-daviel-de-le%C3%B3n-feliz-b1b608289">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://nexatixs.com">
-    <img src="https://img.shields.io/badge/NEXATIXS-00000C?style=for-the-badge&logo=googlechrome&logoColor=39FF14" alt="NEXATIXS"/>
+    <img src="https://img.shields.io/badge/SIRYNIX-00000C?style=for-the-badge&logo=googlechrome&logoColor=39FF14" alt="SIRYNIX"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=GhostZero-007&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -20,7 +20,7 @@
 
 - 🛡️ **Analista de Ciberseguridad**, enfocado en seguridad industrial (ICS/OT) y respuesta a incidentes
 - 💻 **Ingeniero en Sistemas y Computación**
-- 🚀 **Co-founder & CTO** en [NEXATIXS](https://nexatixs.com)
+- 🚀 **Co-founder & CTO** en [SIRYNIX](https://sirynix.com)
 - 🧠 Explorando IA aplicada a seguridad y automatización de operaciones
 - 📫 Contáctame por [LinkedIn](https://www.linkedin.com/in/euddys-daviel-de-le%C3%B3n-feliz-b1b608289)
 
